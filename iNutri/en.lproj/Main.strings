@@ -1,0 +1,99 @@
+
+/* Class = "UIBarButtonItem"; title = "Logout"; ObjectID = "029-3z-Vuf"; */
+"029-3z-Vuf.title" = "Logout";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "0m4-h0-u8W"; */
+"0m4-h0-u8W.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Touch the screen with your nose each \"lagartija\""; ObjectID = "1GV-Ep-M2s"; */
+"1GV-Ep-M2s.text" = "Touch the screen with your nose each \"lagartija\"";
+
+/* Class = "UINavigationItem"; title = "Welcome"; ObjectID = "1fm-lm-WyK"; */
+"1fm-lm-WyK.title" = "Welcome";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "1nW-Q4-S76"; */
+"1nW-Q4-S76.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "3dq-jb-dJ9"; */
+"3dq-jb-dJ9.text" = "Last Name";
+
+/* Class = "UINavigationItem"; title = "Diet"; ObjectID = "3eN-IV-8D2"; */
+"3eN-IV-8D2.title" = "Diet";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "42U-ub-xq3"; */
+"42U-ub-xq3.text" = "Password";
+
+/* Class = "UITabBarItem"; title = "Item 2"; ObjectID = "6xt-6W-fry"; */
+"6xt-6W-fry.title" = "Item 2";
+
+/* Class = "UINavigationItem"; title = "iNutrition"; ObjectID = "77Q-dq-crh"; */
+"77Q-dq-crh.title" = "iNutrition";
+
+/* Class = "UITabBarItem"; title = "Item 1"; ObjectID = "7d0-V3-pJ8"; */
+"7d0-V3-pJ8.title" = "Item 1";
+
+/* Class = "UINavigationItem"; title = "Register"; ObjectID = "9cu-wS-ahf"; */
+"9cu-wS-ahf.title" = "Register";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "Gmq-bJ-FQE"; */
+"Gmq-bJ-FQE.text" = "User Name";
+
+/* Class = "UINavigationItem"; title = "Forgot pass?"; ObjectID = "Jq4-Mw-beY"; */
+"Jq4-Mw-beY.title" = "Forgot pass?";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "MLA-Du-yfV"; */
+"MLA-Du-yfV.title" = "Back";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MYa-9o-9K3"; */
+"MYa-9o-9K3.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "login"; ObjectID = "RSv-gv-bpA"; */
+"RSv-gv-bpA.title" = "login";
+
+/* Class = "UILabel"; text = "Click to start"; ObjectID = "Rhi-xN-3fg"; */
+"Rhi-xN-3fg.text" = "Click to start";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "SEC-Hg-PcZ"; */
+"SEC-Hg-PcZ.text" = "0";
+
+/* Class = "UIBarButtonItem"; title = "Register"; ObjectID = "Xhd-pz-iOC"; */
+"Xhd-pz-iOC.title" = "Register";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "ZCm-EY-fRT"; */
+"ZCm-EY-fRT.text" = "Height";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Zjp-0o-ebT"; */
+"Zjp-0o-ebT.title" = "Back";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "bXg-FM-NRH"; */
+"bXg-FM-NRH.text" = "Password";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "cRb-Xw-Yqr"; */
+"cRb-Xw-Yqr.text" = "Weight";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "cVa-vI-Bwk"; */
+"cVa-vI-Bwk.title" = "Title";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "gAC-U9-Bc2"; */
+"gAC-U9-Bc2.text" = "Username";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "gI1-PH-P1C"; */
+"gI1-PH-P1C.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gKG-nt-cry"; */
+"gKG-nt-cry.text" = "Label";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "gbo-sM-ktT"; */
+"gbo-sM-ktT.text" = "Age";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "n8Y-Rx-89g"; */
+"n8Y-Rx-89g.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Forgot password"; ObjectID = "oep-qW-8aK"; */
+"oep-qW-8aK.normalTitle" = "Forgot password";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "oxh-h9-2s4"; */
+"oxh-h9-2s4.text" = "Name";
+
+/* Class = "UILabel"; text = "Lagartijas"; ObjectID = "wZ4-BO-pUR"; */
+"wZ4-BO-pUR.text" = "Lagartijas";

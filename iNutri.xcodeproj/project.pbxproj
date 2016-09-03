@@ -14,6 +14,41 @@
 		829782E81D7A24DC001AC874 /* iNutri.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 829782E61D7A24DC001AC874 /* iNutri.xcdatamodeld */; };
 		829782EA1D7A24DC001AC874 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 829782E91D7A24DC001AC874 /* Assets.xcassets */; };
 		829782ED1D7A24DC001AC874 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 829782EB1D7A24DC001AC874 /* LaunchScreen.storyboard */; };
+		829782F51D7A2784001AC874 /* FBSDKLoginKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 829782F41D7A2784001AC874 /* FBSDKLoginKit.framework */; };
+		829782F71D7A27AA001AC874 /* FBSDKCoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 829782F61D7A27AA001AC874 /* FBSDKCoreKit.framework */; };
+		829782F91D7A27C7001AC874 /* FBSDKShareKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 829782F81D7A27C7001AC874 /* FBSDKShareKit.framework */; };
+		829782FC1D7A2EE5001AC874 /* newViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 829782FB1D7A2EE5001AC874 /* newViewController.m */; };
+		829782FF1D7A2F59001AC874 /* DietViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 829782FE1D7A2F59001AC874 /* DietViewController.m */; };
+		829783021D7A2F6A001AC874 /* ForgotPassViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 829783011D7A2F6A001AC874 /* ForgotPassViewController.m */; };
+		829783051D7A2F81001AC874 /* DEViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 829783041D7A2F81001AC874 /* DEViewController.m */; };
+		829783101D7A2F94001AC874 /* LagViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 829783071D7A2F94001AC874 /* LagViewController.m */; };
+		829783111D7A2F94001AC874 /* MyCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 829783091D7A2F94001AC874 /* MyCell.m */; };
+		829783121D7A2F94001AC874 /* MyCell1.m in Sources */ = {isa = PBXBuildFile; fileRef = 8297830B1D7A2F94001AC874 /* MyCell1.m */; };
+		829783131D7A2F94001AC874 /* tabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8297830D1D7A2F94001AC874 /* tabViewController.m */; };
+		829783141D7A2F94001AC874 /* UserMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8297830F1D7A2F94001AC874 /* UserMainViewController.m */; };
+		829783301D7A3091001AC874 /* NSDate+Helpers.m in Sources */ = {isa = PBXBuildFile; fileRef = 8297831C1D7A3091001AC874 /* NSDate+Helpers.m */; };
+		829783311D7A3091001AC874 /* PMCalendarBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8297831E1D7A3091001AC874 /* PMCalendarBackgroundView.m */; };
+		829783321D7A3091001AC874 /* PMCalendarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 829783211D7A3091001AC874 /* PMCalendarController.m */; };
+		829783331D7A3091001AC874 /* PMCalendarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 829783241D7A3091001AC874 /* PMCalendarView.m */; };
+		829783341D7A3091001AC874 /* PMDimmingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 829783261D7A3091001AC874 /* PMDimmingView.m */; };
+		829783351D7A3091001AC874 /* PMPeriod.m in Sources */ = {isa = PBXBuildFile; fileRef = 829783281D7A3091001AC874 /* PMPeriod.m */; };
+		829783361D7A3091001AC874 /* PMSelectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8297832A1D7A3091001AC874 /* PMSelectionView.m */; };
+		829783371D7A3091001AC874 /* PMThemeEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = 8297832D1D7A3091001AC874 /* PMThemeEngine.m */; };
+		829783381D7A3091001AC874 /* PMThemeShadow.m in Sources */ = {isa = PBXBuildFile; fileRef = 8297832F1D7A3091001AC874 /* PMThemeShadow.m */; };
+		8297833D1D7A30A3001AC874 /* apple calendar.plist in Resources */ = {isa = PBXBuildFile; fileRef = 829783391D7A30A3001AC874 /* apple calendar.plist */; };
+		8297833E1D7A30A3001AC874 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 8297833A1D7A30A3001AC874 /* background.png */; };
+		8297833F1D7A30A3001AC874 /* background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8297833B1D7A30A3001AC874 /* background@2x.png */; };
+		829783401D7A30A3001AC874 /* default.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8297833C1D7A30A3001AC874 /* default.plist */; };
+		829783461D7A433F001AC874 /* copa.gif in Resources */ = {isa = PBXBuildFile; fileRef = 829783421D7A433F001AC874 /* copa.gif */; };
+		829783471D7A433F001AC874 /* correr.gif in Resources */ = {isa = PBXBuildFile; fileRef = 829783431D7A433F001AC874 /* correr.gif */; };
+		829783481D7A433F001AC874 /* curl.gif in Resources */ = {isa = PBXBuildFile; fileRef = 829783441D7A433F001AC874 /* curl.gif */; };
+		829783491D7A433F001AC874 /* curl2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 829783451D7A433F001AC874 /* curl2.jpg */; };
+		8297834F1D7A4353001AC874 /* action-eating.png in Resources */ = {isa = PBXBuildFile; fileRef = 8297834A1D7A4353001AC874 /* action-eating.png */; };
+		829783501D7A4353001AC874 /* action-location.png in Resources */ = {isa = PBXBuildFile; fileRef = 8297834B1D7A4353001AC874 /* action-location.png */; };
+		829783511D7A4353001AC874 /* action-people.png in Resources */ = {isa = PBXBuildFile; fileRef = 8297834C1D7A4353001AC874 /* action-people.png */; };
+		829783521D7A4353001AC874 /* facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 8297834D1D7A4353001AC874 /* facebook.png */; };
+		829783531D7A4353001AC874 /* nariz.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8297834E1D7A4353001AC874 /* nariz.gif */; };
+		829783551D7A4366001AC874 /* lagartija.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 829783541D7A4366001AC874 /* lagartija.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +63,63 @@
 		829782E91D7A24DC001AC874 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		829782EC1D7A24DC001AC874 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		829782EE1D7A24DC001AC874 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		829782F41D7A2784001AC874 /* FBSDKLoginKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKLoginKit.framework; sourceTree = "<group>"; };
+		829782F61D7A27AA001AC874 /* FBSDKCoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKCoreKit.framework; sourceTree = "<group>"; };
+		829782F81D7A27C7001AC874 /* FBSDKShareKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKShareKit.framework; sourceTree = "<group>"; };
+		829782FA1D7A2EE5001AC874 /* newViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = newViewController.h; sourceTree = "<group>"; };
+		829782FB1D7A2EE5001AC874 /* newViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = newViewController.m; sourceTree = "<group>"; };
+		829782FD1D7A2F59001AC874 /* DietViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DietViewController.h; sourceTree = "<group>"; };
+		829782FE1D7A2F59001AC874 /* DietViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DietViewController.m; sourceTree = "<group>"; };
+		829783001D7A2F6A001AC874 /* ForgotPassViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ForgotPassViewController.h; sourceTree = "<group>"; };
+		829783011D7A2F6A001AC874 /* ForgotPassViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ForgotPassViewController.m; sourceTree = "<group>"; };
+		829783031D7A2F81001AC874 /* DEViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DEViewController.h; sourceTree = "<group>"; };
+		829783041D7A2F81001AC874 /* DEViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DEViewController.m; sourceTree = "<group>"; };
+		829783061D7A2F94001AC874 /* LagViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LagViewController.h; sourceTree = "<group>"; };
+		829783071D7A2F94001AC874 /* LagViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LagViewController.m; sourceTree = "<group>"; };
+		829783081D7A2F94001AC874 /* MyCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyCell.h; sourceTree = "<group>"; };
+		829783091D7A2F94001AC874 /* MyCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyCell.m; sourceTree = "<group>"; };
+		8297830A1D7A2F94001AC874 /* MyCell1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyCell1.h; sourceTree = "<group>"; };
+		8297830B1D7A2F94001AC874 /* MyCell1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyCell1.m; sourceTree = "<group>"; };
+		8297830C1D7A2F94001AC874 /* tabViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tabViewController.h; sourceTree = "<group>"; };
+		8297830D1D7A2F94001AC874 /* tabViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tabViewController.m; sourceTree = "<group>"; };
+		8297830E1D7A2F94001AC874 /* UserMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserMainViewController.h; sourceTree = "<group>"; };
+		8297830F1D7A2F94001AC874 /* UserMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserMainViewController.m; sourceTree = "<group>"; };
+		829783161D7A302E001AC874 /* PMCalendar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PMCalendar.h; path = PMCalendar/PMCalendar.h; sourceTree = "<group>"; };
+		8297831B1D7A3091001AC874 /* NSDate+Helpers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSDate+Helpers.h"; path = "PMCalendar/src/NSDate+Helpers.h"; sourceTree = "<group>"; };
+		8297831C1D7A3091001AC874 /* NSDate+Helpers.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSDate+Helpers.m"; path = "PMCalendar/src/NSDate+Helpers.m"; sourceTree = "<group>"; };
+		8297831D1D7A3091001AC874 /* PMCalendarBackgroundView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PMCalendarBackgroundView.h; path = PMCalendar/src/PMCalendarBackgroundView.h; sourceTree = "<group>"; };
+		8297831E1D7A3091001AC874 /* PMCalendarBackgroundView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PMCalendarBackgroundView.m; path = PMCalendar/src/PMCalendarBackgroundView.m; sourceTree = "<group>"; };
+		8297831F1D7A3091001AC874 /* PMCalendarConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PMCalendarConstants.h; path = PMCalendar/src/PMCalendarConstants.h; sourceTree = "<group>"; };
+		829783201D7A3091001AC874 /* PMCalendarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PMCalendarController.h; path = PMCalendar/src/PMCalendarController.h; sourceTree = "<group>"; };
+		829783211D7A3091001AC874 /* PMCalendarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PMCalendarController.m; path = PMCalendar/src/PMCalendarController.m; sourceTree = "<group>"; };
+		829783221D7A3091001AC874 /* PMCalendarHelpers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PMCalendarHelpers.h; path = PMCalendar/src/PMCalendarHelpers.h; sourceTree = "<group>"; };
+		829783231D7A3091001AC874 /* PMCalendarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PMCalendarView.h; path = PMCalendar/src/PMCalendarView.h; sourceTree = "<group>"; };
+		829783241D7A3091001AC874 /* PMCalendarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PMCalendarView.m; path = PMCalendar/src/PMCalendarView.m; sourceTree = "<group>"; };
+		829783251D7A3091001AC874 /* PMDimmingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PMDimmingView.h; path = PMCalendar/src/PMDimmingView.h; sourceTree = "<group>"; };
+		829783261D7A3091001AC874 /* PMDimmingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PMDimmingView.m; path = PMCalendar/src/PMDimmingView.m; sourceTree = "<group>"; };
+		829783271D7A3091001AC874 /* PMPeriod.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PMPeriod.h; path = PMCalendar/src/PMPeriod.h; sourceTree = "<group>"; };
+		829783281D7A3091001AC874 /* PMPeriod.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PMPeriod.m; path = PMCalendar/src/PMPeriod.m; sourceTree = "<group>"; };
+		829783291D7A3091001AC874 /* PMSelectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PMSelectionView.h; path = PMCalendar/src/PMSelectionView.h; sourceTree = "<group>"; };
+		8297832A1D7A3091001AC874 /* PMSelectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PMSelectionView.m; path = PMCalendar/src/PMSelectionView.m; sourceTree = "<group>"; };
+		8297832B1D7A3091001AC874 /* PMTheme.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PMTheme.h; path = PMCalendar/src/PMTheme.h; sourceTree = "<group>"; };
+		8297832C1D7A3091001AC874 /* PMThemeEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PMThemeEngine.h; path = PMCalendar/src/PMThemeEngine.h; sourceTree = "<group>"; };
+		8297832D1D7A3091001AC874 /* PMThemeEngine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PMThemeEngine.m; path = PMCalendar/src/PMThemeEngine.m; sourceTree = "<group>"; };
+		8297832E1D7A3091001AC874 /* PMThemeShadow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PMThemeShadow.h; path = PMCalendar/src/PMThemeShadow.h; sourceTree = "<group>"; };
+		8297832F1D7A3091001AC874 /* PMThemeShadow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PMThemeShadow.m; path = PMCalendar/src/PMThemeShadow.m; sourceTree = "<group>"; };
+		829783391D7A30A3001AC874 /* apple calendar.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "apple calendar.plist"; path = "PMCalendar/Theme/apple calendar.plist"; sourceTree = "<group>"; };
+		8297833A1D7A30A3001AC874 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = background.png; path = PMCalendar/Theme/background.png; sourceTree = "<group>"; };
+		8297833B1D7A30A3001AC874 /* background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "background@2x.png"; path = "PMCalendar/Theme/background@2x.png"; sourceTree = "<group>"; };
+		8297833C1D7A30A3001AC874 /* default.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = default.plist; path = PMCalendar/Theme/default.plist; sourceTree = "<group>"; };
+		829783421D7A433F001AC874 /* copa.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = copa.gif; sourceTree = "<group>"; };
+		829783431D7A433F001AC874 /* correr.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = correr.gif; sourceTree = "<group>"; };
+		829783441D7A433F001AC874 /* curl.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = curl.gif; sourceTree = "<group>"; };
+		829783451D7A433F001AC874 /* curl2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = curl2.jpg; sourceTree = "<group>"; };
+		8297834A1D7A4353001AC874 /* action-eating.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "action-eating.png"; path = "iNutri/images/action-eating.png"; sourceTree = "<group>"; };
+		8297834B1D7A4353001AC874 /* action-location.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "action-location.png"; path = "iNutri/images/action-location.png"; sourceTree = "<group>"; };
+		8297834C1D7A4353001AC874 /* action-people.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "action-people.png"; path = "iNutri/images/action-people.png"; sourceTree = "<group>"; };
+		8297834D1D7A4353001AC874 /* facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = facebook.png; path = iNutri/images/facebook.png; sourceTree = "<group>"; };
+		8297834E1D7A4353001AC874 /* nariz.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = nariz.gif; path = iNutri/images/nariz.gif; sourceTree = "<group>"; };
+		829783541D7A4366001AC874 /* lagartija.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = lagartija.jpg; path = PMCalendar/lagartija.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +127,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				829782F51D7A2784001AC874 /* FBSDKLoginKit.framework in Frameworks */,
+				829782F71D7A27AA001AC874 /* FBSDKCoreKit.framework in Frameworks */,
+				829782F91D7A27C7001AC874 /* FBSDKShareKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -44,6 +139,8 @@
 		829782CE1D7A24DC001AC874 = {
 			isa = PBXGroup;
 			children = (
+				829783411D7A4323001AC874 /* imgs */,
+				829783151D7A3018001AC874 /* PMCalendar */,
 				829782D91D7A24DC001AC874 /* iNutri */,
 				829782D81D7A24DC001AC874 /* Products */,
 			);
@@ -60,6 +157,24 @@
 		829782D91D7A24DC001AC874 /* iNutri */ = {
 			isa = PBXGroup;
 			children = (
+				829783061D7A2F94001AC874 /* LagViewController.h */,
+				829783071D7A2F94001AC874 /* LagViewController.m */,
+				829783081D7A2F94001AC874 /* MyCell.h */,
+				829783091D7A2F94001AC874 /* MyCell.m */,
+				8297830A1D7A2F94001AC874 /* MyCell1.h */,
+				8297830B1D7A2F94001AC874 /* MyCell1.m */,
+				8297830C1D7A2F94001AC874 /* tabViewController.h */,
+				8297830D1D7A2F94001AC874 /* tabViewController.m */,
+				8297830E1D7A2F94001AC874 /* UserMainViewController.h */,
+				8297830F1D7A2F94001AC874 /* UserMainViewController.m */,
+				829783031D7A2F81001AC874 /* DEViewController.h */,
+				829783041D7A2F81001AC874 /* DEViewController.m */,
+				829783001D7A2F6A001AC874 /* ForgotPassViewController.h */,
+				829783011D7A2F6A001AC874 /* ForgotPassViewController.m */,
+				829782FD1D7A2F59001AC874 /* DietViewController.h */,
+				829782FE1D7A2F59001AC874 /* DietViewController.m */,
+				829782FA1D7A2EE5001AC874 /* newViewController.h */,
+				829782FB1D7A2EE5001AC874 /* newViewController.m */,
 				829782DD1D7A24DC001AC874 /* AppDelegate.h */,
 				829782DE1D7A24DC001AC874 /* AppDelegate.m */,
 				829782E01D7A24DC001AC874 /* ViewController.h */,
@@ -77,9 +192,78 @@
 		829782DA1D7A24DC001AC874 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				829782F81D7A27C7001AC874 /* FBSDKShareKit.framework */,
+				829782F61D7A27AA001AC874 /* FBSDKCoreKit.framework */,
+				829782F41D7A2784001AC874 /* FBSDKLoginKit.framework */,
 				829782DB1D7A24DC001AC874 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		829783151D7A3018001AC874 /* PMCalendar */ = {
+			isa = PBXGroup;
+			children = (
+				829783181D7A305F001AC874 /* Theme */,
+				829783171D7A3056001AC874 /* src */,
+				829783161D7A302E001AC874 /* PMCalendar.h */,
+			);
+			name = PMCalendar;
+			sourceTree = "<group>";
+		};
+		829783171D7A3056001AC874 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				8297831B1D7A3091001AC874 /* NSDate+Helpers.h */,
+				8297831C1D7A3091001AC874 /* NSDate+Helpers.m */,
+				8297831D1D7A3091001AC874 /* PMCalendarBackgroundView.h */,
+				8297831E1D7A3091001AC874 /* PMCalendarBackgroundView.m */,
+				8297831F1D7A3091001AC874 /* PMCalendarConstants.h */,
+				829783201D7A3091001AC874 /* PMCalendarController.h */,
+				829783211D7A3091001AC874 /* PMCalendarController.m */,
+				829783221D7A3091001AC874 /* PMCalendarHelpers.h */,
+				829783231D7A3091001AC874 /* PMCalendarView.h */,
+				829783241D7A3091001AC874 /* PMCalendarView.m */,
+				829783251D7A3091001AC874 /* PMDimmingView.h */,
+				829783261D7A3091001AC874 /* PMDimmingView.m */,
+				829783271D7A3091001AC874 /* PMPeriod.h */,
+				829783281D7A3091001AC874 /* PMPeriod.m */,
+				829783291D7A3091001AC874 /* PMSelectionView.h */,
+				8297832A1D7A3091001AC874 /* PMSelectionView.m */,
+				8297832B1D7A3091001AC874 /* PMTheme.h */,
+				8297832C1D7A3091001AC874 /* PMThemeEngine.h */,
+				8297832D1D7A3091001AC874 /* PMThemeEngine.m */,
+				8297832E1D7A3091001AC874 /* PMThemeShadow.h */,
+				8297832F1D7A3091001AC874 /* PMThemeShadow.m */,
+			);
+			name = src;
+			sourceTree = "<group>";
+		};
+		829783181D7A305F001AC874 /* Theme */ = {
+			isa = PBXGroup;
+			children = (
+				829783391D7A30A3001AC874 /* apple calendar.plist */,
+				8297833A1D7A30A3001AC874 /* background.png */,
+				8297833B1D7A30A3001AC874 /* background@2x.png */,
+				8297833C1D7A30A3001AC874 /* default.plist */,
+			);
+			name = Theme;
+			sourceTree = "<group>";
+		};
+		829783411D7A4323001AC874 /* imgs */ = {
+			isa = PBXGroup;
+			children = (
+				829783541D7A4366001AC874 /* lagartija.jpg */,
+				8297834A1D7A4353001AC874 /* action-eating.png */,
+				8297834B1D7A4353001AC874 /* action-location.png */,
+				8297834C1D7A4353001AC874 /* action-people.png */,
+				8297834D1D7A4353001AC874 /* facebook.png */,
+				8297834E1D7A4353001AC874 /* nariz.gif */,
+				829783421D7A433F001AC874 /* copa.gif */,
+				829783431D7A433F001AC874 /* correr.gif */,
+				829783441D7A433F001AC874 /* curl.gif */,
+				829783451D7A433F001AC874 /* curl2.jpg */,
+			);
+			name = imgs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,9 +323,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				829783501D7A4353001AC874 /* action-location.png in Resources */,
+				829783531D7A4353001AC874 /* nariz.gif in Resources */,
 				829782ED1D7A24DC001AC874 /* LaunchScreen.storyboard in Resources */,
+				829783511D7A4353001AC874 /* action-people.png in Resources */,
+				829783551D7A4366001AC874 /* lagartija.jpg in Resources */,
+				829783401D7A30A3001AC874 /* default.plist in Resources */,
+				829783481D7A433F001AC874 /* curl.gif in Resources */,
+				8297833E1D7A30A3001AC874 /* background.png in Resources */,
 				829782EA1D7A24DC001AC874 /* Assets.xcassets in Resources */,
+				829783521D7A4353001AC874 /* facebook.png in Resources */,
+				8297833D1D7A30A3001AC874 /* apple calendar.plist in Resources */,
+				8297833F1D7A30A3001AC874 /* background@2x.png in Resources */,
+				8297834F1D7A4353001AC874 /* action-eating.png in Resources */,
 				829782E51D7A24DC001AC874 /* Main.storyboard in Resources */,
+				829783471D7A433F001AC874 /* correr.gif in Resources */,
+				829783491D7A433F001AC874 /* curl2.jpg in Resources */,
+				829783461D7A433F001AC874 /* copa.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -154,7 +352,25 @@
 			files = (
 				829782E21D7A24DC001AC874 /* ViewController.m in Sources */,
 				829782DF1D7A24DC001AC874 /* AppDelegate.m in Sources */,
+				829783371D7A3091001AC874 /* PMThemeEngine.m in Sources */,
+				829783021D7A2F6A001AC874 /* ForgotPassViewController.m in Sources */,
+				829783111D7A2F94001AC874 /* MyCell.m in Sources */,
+				829783311D7A3091001AC874 /* PMCalendarBackgroundView.m in Sources */,
+				829783121D7A2F94001AC874 /* MyCell1.m in Sources */,
+				829783361D7A3091001AC874 /* PMSelectionView.m in Sources */,
+				829782FC1D7A2EE5001AC874 /* newViewController.m in Sources */,
+				829783301D7A3091001AC874 /* NSDate+Helpers.m in Sources */,
+				829783101D7A2F94001AC874 /* LagViewController.m in Sources */,
 				829782E81D7A24DC001AC874 /* iNutri.xcdatamodeld in Sources */,
+				829783331D7A3091001AC874 /* PMCalendarView.m in Sources */,
+				829783131D7A2F94001AC874 /* tabViewController.m in Sources */,
+				829783351D7A3091001AC874 /* PMPeriod.m in Sources */,
+				829783051D7A2F81001AC874 /* DEViewController.m in Sources */,
+				829783321D7A3091001AC874 /* PMCalendarController.m in Sources */,
+				829783141D7A2F94001AC874 /* UserMainViewController.m in Sources */,
+				829783341D7A3091001AC874 /* PMDimmingView.m in Sources */,
+				829782FF1D7A2F59001AC874 /* DietViewController.m in Sources */,
+				829783381D7A3091001AC874 /* PMThemeShadow.m in Sources */,
 				829782DC1D7A24DC001AC874 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -269,6 +485,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/iNutri",
+				);
+				GCC_NO_COMMON_BLOCKS = NO;
 				INFOPLIST_FILE = iNutri/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.robert.iNutri;
@@ -280,6 +501,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/iNutri",
+				);
+				GCC_NO_COMMON_BLOCKS = NO;
 				INFOPLIST_FILE = iNutri/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.robert.iNutri;
