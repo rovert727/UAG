@@ -1,0 +1,6 @@
+framework module Pods_ExamenFinal {
+  umbrella header "Pods-ExamenFinal-umbrella.h"
+
+  export *
+  module * { export * }
+}
